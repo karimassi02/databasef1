@@ -1,0 +1,19 @@
+.center {
+    text-align: center;
+}
+
+.bg {
+    background-color: blanchedalmond;
+}
+
+td {
+    border : 1px solid red;
+}
+
+.cheatcode {
+    float:left;
+}
+
+.cheatcode2 {
+    float:right;
+}
